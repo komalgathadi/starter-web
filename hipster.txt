@@ -7,3 +7,7 @@ What are these graphs?
 These graphs are sampled periodically from our own internal metrics about the performance and availability of GitHub services. They’re accurate to within a few minutes.
 
 We provide a GitHub Site Status API for consuming this information. If you're a service that integrates with GitHub, you can use these JSON responses to populate your own status dashboard.
+
+
+Built for professional teams
+Distributed version control system that makes it easy for you to collaborate with your team. The only collaborative Git solution that massively scales.
