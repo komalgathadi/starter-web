@@ -1,1 +1,9 @@
-Fingerstache 90's VHS meggings banjo, cred chillwave tilde single-origin coffee everyday carry. Jean shorts tofu heirloom, forage knausgaard try-hard wayfarers XOXO. IPhone viral you probably haven't heard of them, mlkshk 3 wolf moon four dollar toast fixie gastropub locavore messenger bag drinking vinegar irony chia kitsch migas. Heirloom cardigan health goth, literally put a bird on it green juice portland bicycle rights kogi ramps truffaut single-origin coffee small batch sustainable letterpress. Sartorial literally gochujang fixie next level forage, taxidermy messenger bag kombucha master cleanse occupy meditation paleo. Bitters cray banh mi tote bag migas keytar man braid poutine mumblecore gluten-free artisan, pour-over tofu butcher kitsch. Fap seitan blue bottle, franzen letterpress authentic neutra
+What is this site?
+
+We continuously monitor the status of github.com and all its related services. If there are any interruptions in service, a note will be posted here.
+
+What are these graphs?
+
+These graphs are sampled periodically from our own internal metrics about the performance and availability of GitHub services. They’re accurate to within a few minutes.
+
+We provide a GitHub Site Status API for consuming this information. If you're a service that integrates with GitHub, you can use these JSON responses to populate your own status dashboard.
